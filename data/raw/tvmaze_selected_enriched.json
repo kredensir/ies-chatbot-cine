@@ -1,0 +1,1679 @@
+[
+ {
+  "id": 169,
+  "name": "Breaking Bad",
+  "year": "2008",
+  "end": "2019",
+  "genres": [
+   "Drama",
+   "Crime",
+   "Thriller"
+  ],
+  "runtime": 60,
+  "rating": 9.2,
+  "weight": 100,
+  "network": "AMC",
+  "country": "US",
+  "seasons": 5,
+  "episodes": 62,
+  "average_runtime": 60
+ },
+ {
+  "id": 618,
+  "name": "Better Call Saul",
+  "year": "2015",
+  "end": "2022",
+  "genres": [
+   "Drama",
+   "Crime",
+   "Legal"
+  ],
+  "runtime": 60,
+  "rating": 8.6,
+  "weight": 100,
+  "network": "AMC",
+  "country": "US",
+  "seasons": 6,
+  "episodes": 63,
+  "average_runtime": 64
+ },
+ {
+  "id": 179,
+  "name": "The Wire",
+  "year": "2002",
+  "end": "2008",
+  "genres": [
+   "Drama",
+   "Crime"
+  ],
+  "runtime": 60,
+  "rating": 8.9,
+  "weight": 99,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 5,
+  "episodes": 60,
+  "average_runtime": 60
+ },
+ {
+  "id": 527,
+  "name": "The Sopranos",
+  "year": "1999",
+  "end": "2007",
+  "genres": [
+   "Drama",
+   "Crime"
+  ],
+  "runtime": 60,
+  "rating": 8.8,
+  "weight": 99,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 6,
+  "episodes": 86,
+  "average_runtime": 58
+ },
+ {
+  "id": 269,
+  "name": "Peaky Blinders",
+  "year": "2013",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Crime",
+   "History"
+  ],
+  "runtime": null,
+  "rating": 8.5,
+  "weight": 100,
+  "network": "BBC One",
+  "country": "GB",
+  "seasons": 8,
+  "episodes": 36,
+  "average_runtime": 61
+ },
+ {
+  "id": 5,
+  "name": "True Detective",
+  "year": "2014",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Crime",
+   "Thriller"
+  ],
+  "runtime": 60,
+  "rating": 8.1,
+  "weight": 100,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 5,
+  "episodes": 30,
+  "average_runtime": 63
+ },
+ {
+  "id": 32,
+  "name": "Fargo",
+  "year": "2014",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Comedy",
+   "Crime"
+  ],
+  "runtime": 60,
+  "rating": 8.6,
+  "weight": 99,
+  "network": "FX",
+  "country": "US",
+  "seasons": 5,
+  "episodes": 51,
+  "average_runtime": 67
+ },
+ {
+  "id": 335,
+  "name": "Sherlock",
+  "year": "2010",
+  "end": "2017",
+  "genres": [
+   "Drama",
+   "Crime",
+   "Mystery"
+  ],
+  "runtime": 90,
+  "rating": 8.9,
+  "weight": 99,
+  "network": "BBC One",
+  "country": "GB",
+  "seasons": 4,
+  "episodes": 12,
+  "average_runtime": 90
+ },
+ {
+  "id": 161,
+  "name": "Dexter",
+  "year": "2006",
+  "end": "2013",
+  "genres": [
+   "Drama",
+   "Crime",
+   "Mystery"
+  ],
+  "runtime": 60,
+  "rating": 8.4,
+  "weight": 100,
+  "network": "Paramount+ with Showtime",
+  "country": "US",
+  "seasons": 8,
+  "episodes": 96,
+  "average_runtime": 60
+ },
+ {
+  "id": 10822,
+  "name": "MINDHUNTER",
+  "year": "2017",
+  "end": "2019",
+  "genres": [
+   "Drama",
+   "Crime",
+   "Thriller"
+  ],
+  "runtime": null,
+  "rating": 8.4,
+  "weight": 99,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 2,
+  "episodes": 19,
+  "average_runtime": 54
+ },
+ {
+  "id": 13417,
+  "name": "Ozark",
+  "year": "2017",
+  "end": "2022",
+  "genres": [
+   "Drama",
+   "Crime",
+   "Thriller"
+  ],
+  "runtime": null,
+  "rating": 8.2,
+  "weight": 99,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 4,
+  "episodes": 44,
+  "average_runtime": 61
+ },
+ {
+  "id": 2705,
+  "name": "Narcos",
+  "year": "2015",
+  "end": "2017",
+  "genres": [
+   "Drama",
+   "Action",
+   "Crime"
+  ],
+  "runtime": null,
+  "rating": 8.4,
+  "weight": 99,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 3,
+  "episodes": 30,
+  "average_runtime": 52
+ },
+ {
+  "id": 27436,
+  "name": "La Casa de Papel",
+  "year": "2017",
+  "end": "2021",
+  "genres": [
+   "Action",
+   "Crime",
+   "Thriller"
+  ],
+  "runtime": null,
+  "rating": 8,
+  "weight": 99,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 4,
+  "episodes": 41,
+  "average_runtime": 60
+ },
+ {
+  "id": 353,
+  "name": "Line of Duty",
+  "year": "2012",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Crime",
+   "Thriller"
+  ],
+  "runtime": 60,
+  "rating": 8.6,
+  "weight": 99,
+  "network": "BBC One",
+  "country": "GB",
+  "seasons": 7,
+  "episodes": 36,
+  "average_runtime": 62
+ },
+ {
+  "id": 69,
+  "name": "The Blacklist",
+  "year": "2013",
+  "end": "2023",
+  "genres": [
+   "Drama",
+   "Crime",
+   "Thriller"
+  ],
+  "runtime": 60,
+  "rating": 8,
+  "weight": 100,
+  "network": "NBC",
+  "country": "US",
+  "seasons": 10,
+  "episodes": 218,
+  "average_runtime": 60
+ },
+ {
+  "id": 541,
+  "name": "Prison Break",
+  "year": "2005",
+  "end": "2017",
+  "genres": [
+   "Drama",
+   "Crime",
+   "Thriller"
+  ],
+  "runtime": 60,
+  "rating": 8.2,
+  "weight": 100,
+  "network": "FOX",
+  "country": "US",
+  "seasons": 5,
+  "episodes": 88,
+  "average_runtime": 60
+ },
+ {
+  "id": 172,
+  "name": "Suits",
+  "year": "2011",
+  "end": "2019",
+  "genres": [
+   "Drama",
+   "Legal"
+  ],
+  "runtime": 60,
+  "rating": 8.1,
+  "weight": 100,
+  "network": "USA Network",
+  "country": "US",
+  "seasons": 9,
+  "episodes": 134,
+  "average_runtime": 60
+ },
+ {
+  "id": 7,
+  "name": "Homeland",
+  "year": "2011",
+  "end": "2020",
+  "genres": [
+   "Drama",
+   "Thriller",
+   "Espionage"
+  ],
+  "runtime": 60,
+  "rating": 8.2,
+  "weight": 99,
+  "network": "Paramount+ with Showtime",
+  "country": "US",
+  "seasons": 8,
+  "episodes": 96,
+  "average_runtime": 60
+ },
+ {
+  "id": 157,
+  "name": "The Americans",
+  "year": "2013",
+  "end": "2018",
+  "genres": [
+   "Drama",
+   "Espionage"
+  ],
+  "runtime": 60,
+  "rating": 8.5,
+  "weight": 99,
+  "network": "FX",
+  "country": "US",
+  "seasons": 6,
+  "episodes": 75,
+  "average_runtime": 62
+ },
+ {
+  "id": 167,
+  "name": "24",
+  "year": "2001",
+  "end": "2014",
+  "genres": [
+   "Drama",
+   "Action",
+   "Thriller"
+  ],
+  "runtime": 60,
+  "rating": 8.2,
+  "weight": 99,
+  "network": "FOX",
+  "country": "US",
+  "seasons": 9,
+  "episodes": 204,
+  "average_runtime": 60
+ },
+ {
+  "id": 123,
+  "name": "Lost",
+  "year": "2004",
+  "end": "2010",
+  "genres": [
+   "Drama",
+   "Adventure",
+   "Supernatural"
+  ],
+  "runtime": 60,
+  "rating": 8.2,
+  "weight": 99,
+  "network": "ABC",
+  "country": "US",
+  "seasons": 6,
+  "episodes": 121,
+  "average_runtime": 60
+ },
+ {
+  "id": 430,
+  "name": "The X-Files",
+  "year": "1993",
+  "end": "2018",
+  "genres": [
+   "Drama",
+   "Crime",
+   "Science-Fiction"
+  ],
+  "runtime": 60,
+  "rating": 8.6,
+  "weight": 100,
+  "network": "FOX",
+  "country": "US",
+  "seasons": 11,
+  "episodes": 218,
+  "average_runtime": 60
+ },
+ {
+  "id": 158,
+  "name": "Fringe",
+  "year": "2008",
+  "end": "2013",
+  "genres": [
+   "Drama",
+   "Action",
+   "Science-Fiction"
+  ],
+  "runtime": 60,
+  "rating": 8.6,
+  "weight": 99,
+  "network": "FOX",
+  "country": "US",
+  "seasons": 5,
+  "episodes": 100,
+  "average_runtime": 61
+ },
+ {
+  "id": 305,
+  "name": "Black Mirror",
+  "year": "2011",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Science-Fiction",
+   "Thriller"
+  ],
+  "runtime": null,
+  "rating": 8.4,
+  "weight": 100,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 8,
+  "episodes": 32,
+  "average_runtime": 62
+ },
+ {
+  "id": 2,
+  "name": "Person of Interest",
+  "year": "2011",
+  "end": "2016",
+  "genres": [
+   "Action",
+   "Crime",
+   "Science-Fiction"
+  ],
+  "runtime": 60,
+  "rating": 8.8,
+  "weight": 100,
+  "network": "CBS",
+  "country": "US",
+  "seasons": 5,
+  "episodes": 103,
+  "average_runtime": 60
+ },
+ {
+  "id": 2993,
+  "name": "Stranger Things",
+  "year": "2016",
+  "end": "2025",
+  "genres": [
+   "Drama",
+   "Horror",
+   "Science-Fiction"
+  ],
+  "runtime": null,
+  "rating": 8.4,
+  "weight": 100,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 5,
+  "episodes": 42,
+  "average_runtime": 65
+ },
+ {
+  "id": 17861,
+  "name": "Dark",
+  "year": "2017",
+  "end": "2020",
+  "genres": [
+   "Drama",
+   "Science-Fiction",
+   "Supernatural"
+  ],
+  "runtime": null,
+  "rating": 8.2,
+  "weight": 100,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 3,
+  "episodes": 26,
+  "average_runtime": 56
+ },
+ {
+  "id": 44933,
+  "name": "Severance",
+  "year": "2022",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Science-Fiction",
+   "Mystery"
+  ],
+  "runtime": null,
+  "rating": 7.7,
+  "weight": 100,
+  "network": "Apple TV",
+  "country": null,
+  "seasons": 3,
+  "episodes": 19,
+  "average_runtime": 49
+ },
+ {
+  "id": 1371,
+  "name": "Westworld",
+  "year": "2016",
+  "end": "2022",
+  "genres": [
+   "Drama",
+   "Science-Fiction",
+   "Western"
+  ],
+  "runtime": 60,
+  "rating": 8.2,
+  "weight": 99,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 4,
+  "episodes": 36,
+  "average_runtime": 63
+ },
+ {
+  "id": 38963,
+  "name": "The Mandalorian",
+  "year": "2019",
+  "end": "2023",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Science-Fiction"
+  ],
+  "runtime": null,
+  "rating": 8.5,
+  "weight": 99,
+  "network": "Disney+",
+  "country": null,
+  "seasons": 3,
+  "episodes": 24,
+  "average_runtime": 40
+ },
+ {
+  "id": 52341,
+  "name": "Andor",
+  "year": "2022",
+  "end": "2025",
+  "genres": [
+   "Science-Fiction",
+   "Thriller",
+   "Espionage"
+  ],
+  "runtime": null,
+  "rating": 8,
+  "weight": 99,
+  "network": "Disney+",
+  "country": null,
+  "seasons": 2,
+  "episodes": 24,
+  "average_runtime": 48
+ },
+ {
+  "id": 210,
+  "name": "Doctor Who",
+  "year": "2005",
+  "end": "2022",
+  "genres": [
+   "Drama",
+   "Adventure",
+   "Science-Fiction"
+  ],
+  "runtime": null,
+  "rating": 8.3,
+  "weight": 100,
+  "network": "BBC One",
+  "country": "GB",
+  "seasons": 13,
+  "episodes": 153,
+  "average_runtime": 48
+ },
+ {
+  "id": 490,
+  "name": "Star Trek",
+  "year": "1966",
+  "end": "1969",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Science-Fiction"
+  ],
+  "runtime": 60,
+  "rating": 8.4,
+  "weight": 99,
+  "network": "NBC",
+  "country": "US",
+  "seasons": 3,
+  "episodes": 79,
+  "average_runtime": 60
+ },
+ {
+  "id": 180,
+  "name": "Firefly",
+  "year": "2002",
+  "end": "2002",
+  "genres": [
+   "Drama",
+   "Adventure",
+   "Science-Fiction"
+  ],
+  "runtime": 60,
+  "rating": 9,
+  "weight": 99,
+  "network": "FOX",
+  "country": "US",
+  "seasons": 1,
+  "episodes": 14,
+  "average_runtime": 64
+ },
+ {
+  "id": 166,
+  "name": "Battlestar Galactica",
+  "year": "2003",
+  "end": "2009",
+  "genres": [
+   "Drama",
+   "Science-Fiction",
+   "War"
+  ],
+  "runtime": 60,
+  "rating": 8.7,
+  "weight": 98,
+  "network": "Syfy",
+  "country": "US",
+  "seasons": 4,
+  "episodes": 73,
+  "average_runtime": 61
+ },
+ {
+  "id": 204,
+  "name": "Stargate SG·1",
+  "year": "1997",
+  "end": "2008",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Science-Fiction"
+  ],
+  "runtime": 60,
+  "rating": 8.8,
+  "weight": 99,
+  "network": "Syfy",
+  "country": "US",
+  "seasons": 10,
+  "episodes": 213,
+  "average_runtime": 60
+ },
+ {
+  "id": 787,
+  "name": "The Twilight Zone",
+  "year": "1959",
+  "end": "1964",
+  "genres": [
+   "Science-Fiction",
+   "Mystery",
+   "Supernatural"
+  ],
+  "runtime": 30,
+  "rating": 8.9,
+  "weight": 99,
+  "network": "CBS",
+  "country": "US",
+  "seasons": 5,
+  "episodes": 156,
+  "average_runtime": 33
+ },
+ {
+  "id": 82,
+  "name": "Game of Thrones",
+  "year": "2011",
+  "end": "2019",
+  "genres": [
+   "Drama",
+   "Adventure",
+   "Fantasy"
+  ],
+  "runtime": 60,
+  "rating": 8.9,
+  "weight": 100,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 8,
+  "episodes": 73,
+  "average_runtime": 61
+ },
+ {
+  "id": 44778,
+  "name": "House of the Dragon",
+  "year": "2022",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Action",
+   "Fantasy"
+  ],
+  "runtime": null,
+  "rating": 7.6,
+  "weight": 100,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 4,
+  "episodes": 26,
+  "average_runtime": 66
+ },
+ {
+  "id": 28276,
+  "name": "The Witcher",
+  "year": "2019",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Action",
+   "Fantasy"
+  ],
+  "runtime": null,
+  "rating": 7.8,
+  "weight": 100,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 5,
+  "episodes": 32,
+  "average_runtime": 57
+ },
+ {
+  "id": 15299,
+  "name": "The Boys",
+  "year": "2019",
+  "end": "2026",
+  "genres": [
+   "Action",
+   "Fantasy",
+   "Adult"
+  ],
+  "runtime": null,
+  "rating": 8.3,
+  "weight": 99,
+  "network": "Prime Video",
+  "country": null,
+  "seasons": 5,
+  "episodes": 40,
+  "average_runtime": 63
+ },
+ {
+  "id": 30386,
+  "name": "The Umbrella Academy",
+  "year": "2019",
+  "end": "2024",
+  "genres": [
+   "Drama",
+   "Action",
+   "Science-Fiction"
+  ],
+  "runtime": null,
+  "rating": 7.9,
+  "weight": 99,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 4,
+  "episodes": 36,
+  "average_runtime": 51
+ },
+ {
+  "id": 555,
+  "name": "Avatar: The Last Airbender",
+  "year": "2005",
+  "end": "2026",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Fantasy"
+  ],
+  "runtime": 30,
+  "rating": 8.8,
+  "weight": 99,
+  "network": "Nickelodeon",
+  "country": "US",
+  "seasons": 3,
+  "episodes": 61,
+  "average_runtime": 30
+ },
+ {
+  "id": 919,
+  "name": "Attack on Titan",
+  "year": "2013",
+  "end": "2023",
+  "genres": [
+   "Action",
+   "Anime",
+   "Fantasy",
+   "Horror"
+  ],
+  "runtime": 25,
+  "rating": 8.9,
+  "weight": 99,
+  "network": "NHK",
+  "country": "JP",
+  "seasons": 4,
+  "episodes": 89,
+  "average_runtime": 26
+ },
+ {
+  "id": 563,
+  "name": "Star Wars: The Clone Wars",
+  "year": "2008",
+  "end": "2020",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Science-Fiction"
+  ],
+  "runtime": null,
+  "rating": 8.4,
+  "weight": 99,
+  "network": "Disney+",
+  "country": null,
+  "seasons": 7,
+  "episodes": 133,
+  "average_runtime": 30
+ },
+ {
+  "id": 46562,
+  "name": "The Last of Us",
+  "year": "2023",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Action",
+   "Horror"
+  ],
+  "runtime": null,
+  "rating": 7.9,
+  "weight": 100,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 3,
+  "episodes": 16,
+  "average_runtime": 61
+ },
+ {
+  "id": 49041,
+  "name": "Fallout",
+  "year": "2024",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Action",
+   "Science-Fiction"
+  ],
+  "runtime": null,
+  "rating": 7.9,
+  "weight": 100,
+  "network": "Prime Video",
+  "country": null,
+  "seasons": 3,
+  "episodes": 16,
+  "average_runtime": 57
+ },
+ {
+  "id": 53277,
+  "name": "3 Body Problem",
+  "year": "2024",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Science-Fiction",
+   "Thriller"
+  ],
+  "runtime": null,
+  "rating": 7.6,
+  "weight": 100,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 2,
+  "episodes": 8,
+  "average_runtime": 55
+ },
+ {
+  "id": 29,
+  "name": "Vikings",
+  "year": "2013",
+  "end": "2021",
+  "genres": [
+   "Drama",
+   "Action",
+   "History"
+  ],
+  "runtime": 60,
+  "rating": 8.6,
+  "weight": 99,
+  "network": "History",
+  "country": "CA",
+  "seasons": 6,
+  "episodes": 89,
+  "average_runtime": 60
+ },
+ {
+  "id": 716,
+  "name": "Spartacus",
+  "year": "2010",
+  "end": "2013",
+  "genres": [
+   "Drama",
+   "Action",
+   "History"
+  ],
+  "runtime": 60,
+  "rating": 8.5,
+  "weight": 99,
+  "network": "STARZ",
+  "country": "US",
+  "seasons": 3,
+  "episodes": 33,
+  "average_runtime": 60
+ },
+ {
+  "id": 182,
+  "name": "Black Sails",
+  "year": "2014",
+  "end": "2017",
+  "genres": [
+   "Drama",
+   "Action",
+   "Adventure"
+  ],
+  "runtime": 60,
+  "rating": 8.4,
+  "weight": 99,
+  "network": "STARZ",
+  "country": "US",
+  "seasons": 4,
+  "episodes": 38,
+  "average_runtime": 60
+ },
+ {
+  "id": 43,
+  "name": "Outlander",
+  "year": "2014",
+  "end": "2026",
+  "genres": [
+   "Adventure",
+   "Romance",
+   "Science-Fiction"
+  ],
+  "runtime": 60,
+  "rating": 7.9,
+  "weight": 100,
+  "network": "STARZ",
+  "country": "US",
+  "seasons": 8,
+  "episodes": 101,
+  "average_runtime": 61
+ },
+ {
+  "id": 30770,
+  "name": "Chernobyl",
+  "year": "2019",
+  "end": "2019",
+  "genres": [
+   "Drama",
+   "History"
+  ],
+  "runtime": null,
+  "rating": 8.9,
+  "weight": 99,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 1,
+  "episodes": 5,
+  "average_runtime": 70
+ },
+ {
+  "id": 465,
+  "name": "Band of Brothers",
+  "year": "2001",
+  "end": "2001",
+  "genres": [
+   "Drama",
+   "Action",
+   "War"
+  ],
+  "runtime": 60,
+  "rating": 9,
+  "weight": 99,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 1,
+  "episodes": 10,
+  "average_runtime": 59
+ },
+ {
+  "id": 3594,
+  "name": "The Crown",
+  "year": "2016",
+  "end": "2023",
+  "genres": [
+   "Drama",
+   "History"
+  ],
+  "runtime": null,
+  "rating": 8.4,
+  "weight": 98,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 6,
+  "episodes": 60,
+  "average_runtime": 55
+ },
+ {
+  "id": 251,
+  "name": "Downton Abbey",
+  "year": "2010",
+  "end": "2015",
+  "genres": [
+   "Drama",
+   "Family",
+   "Romance"
+  ],
+  "runtime": 60,
+  "rating": 8.7,
+  "weight": 99,
+  "network": "ITV1",
+  "country": "GB",
+  "seasons": 6,
+  "episodes": 47,
+  "average_runtime": 71
+ },
+ {
+  "id": 385,
+  "name": "Mad Men",
+  "year": "2007",
+  "end": "2015",
+  "genres": [
+   "Drama"
+  ],
+  "runtime": 60,
+  "rating": 8.1,
+  "weight": 98,
+  "network": "AMC",
+  "country": "US",
+  "seasons": 7,
+  "episodes": 92,
+  "average_runtime": 60
+ },
+ {
+  "id": 37336,
+  "name": "Shōgun",
+  "year": "2024",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Adventure",
+   "History"
+  ],
+  "runtime": null,
+  "rating": 8.5,
+  "weight": 100,
+  "network": "Hulu",
+  "country": null,
+  "seasons": 3,
+  "episodes": 10,
+  "average_runtime": 59
+ },
+ {
+  "id": 526,
+  "name": "The Office",
+  "year": "2005",
+  "end": "2013",
+  "genres": [
+   "Comedy"
+  ],
+  "runtime": 30,
+  "rating": 8.5,
+  "weight": 99,
+  "network": "NBC",
+  "country": "US",
+  "seasons": 9,
+  "episodes": 202,
+  "average_runtime": 30
+ },
+ {
+  "id": 431,
+  "name": "Friends",
+  "year": "1994",
+  "end": "2004",
+  "genres": [
+   "Comedy",
+   "Romance"
+  ],
+  "runtime": 30,
+  "rating": 8.5,
+  "weight": 100,
+  "network": "NBC",
+  "country": "US",
+  "seasons": 10,
+  "episodes": 236,
+  "average_runtime": 30
+ },
+ {
+  "id": 530,
+  "name": "Seinfeld",
+  "year": "1989",
+  "end": "1998",
+  "genres": [
+   "Comedy"
+  ],
+  "runtime": 30,
+  "rating": 8.3,
+  "weight": 99,
+  "network": "NBC",
+  "country": "US",
+  "seasons": 9,
+  "episodes": 180,
+  "average_runtime": 30
+ },
+ {
+  "id": 66,
+  "name": "The Big Bang Theory",
+  "year": "2007",
+  "end": "2019",
+  "genres": [
+   "Comedy"
+  ],
+  "runtime": 30,
+  "rating": 8,
+  "weight": 100,
+  "network": "CBS",
+  "country": "US",
+  "seasons": 12,
+  "episodes": 279,
+  "average_runtime": 30
+ },
+ {
+  "id": 171,
+  "name": "How I Met Your Mother",
+  "year": "2005",
+  "end": "2014",
+  "genres": [
+   "Drama",
+   "Comedy",
+   "Romance"
+  ],
+  "runtime": 30,
+  "rating": 7.8,
+  "weight": 99,
+  "network": "CBS",
+  "country": "US",
+  "seasons": 9,
+  "episodes": 208,
+  "average_runtime": 30
+ },
+ {
+  "id": 532,
+  "name": "Scrubs",
+  "year": "2001",
+  "end": "2010",
+  "genres": [
+   "Drama",
+   "Comedy",
+   "Medical"
+  ],
+  "runtime": 30,
+  "rating": 8.4,
+  "weight": 99,
+  "network": "ABC",
+  "country": "US",
+  "seasons": 9,
+  "episodes": 182,
+  "average_runtime": 30
+ },
+ {
+  "id": 318,
+  "name": "Community",
+  "year": "2009",
+  "end": "2015",
+  "genres": [
+   "Comedy"
+  ],
+  "runtime": 30,
+  "rating": 8.3,
+  "weight": 99,
+  "network": "Yahoo! View",
+  "country": null,
+  "seasons": 6,
+  "episodes": 110,
+  "average_runtime": 30
+ },
+ {
+  "id": 174,
+  "name": "Parks and Recreation",
+  "year": "2009",
+  "end": "2015",
+  "genres": [
+   "Comedy"
+  ],
+  "runtime": 30,
+  "rating": 8.1,
+  "weight": 98,
+  "network": "NBC",
+  "country": "US",
+  "seasons": 7,
+  "episodes": 125,
+  "average_runtime": 30
+ },
+ {
+  "id": 216,
+  "name": "Rick and Morty",
+  "year": "2013",
+  "end": "",
+  "genres": [
+   "Comedy",
+   "Adventure",
+   "Science-Fiction"
+  ],
+  "runtime": 30,
+  "rating": 8.7,
+  "weight": 100,
+  "network": "Adult Swim",
+  "country": "US",
+  "seasons": 10,
+  "episodes": 91,
+  "average_runtime": 30
+ },
+ {
+  "id": 538,
+  "name": "Futurama",
+  "year": "1999",
+  "end": "",
+  "genres": [
+   "Comedy",
+   "Adventure",
+   "Science-Fiction"
+  ],
+  "runtime": null,
+  "rating": 8.6,
+  "weight": 100,
+  "network": "Hulu",
+  "country": null,
+  "seasons": 12,
+  "episodes": 164,
+  "average_runtime": 29
+ },
+ {
+  "id": 83,
+  "name": "The Simpsons",
+  "year": "1989",
+  "end": "",
+  "genres": [
+   "Comedy",
+   "Family"
+  ],
+  "runtime": 30,
+  "rating": 8.1,
+  "weight": 100,
+  "network": "FOX",
+  "country": "US",
+  "seasons": 38,
+  "episodes": 808,
+  "average_runtime": 30
+ },
+ {
+  "id": 112,
+  "name": "South Park",
+  "year": "1997",
+  "end": "",
+  "genres": [
+   "Comedy"
+  ],
+  "runtime": 30,
+  "rating": 8.3,
+  "weight": 100,
+  "network": "Comedy Central",
+  "country": "US",
+  "seasons": 29,
+  "episodes": 335,
+  "average_runtime": 30
+ },
+ {
+  "id": 184,
+  "name": "BoJack Horseman",
+  "year": "2014",
+  "end": "2020",
+  "genres": [
+   "Drama",
+   "Comedy"
+  ],
+  "runtime": null,
+  "rating": 7.9,
+  "weight": 95,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 6,
+  "episodes": 76,
+  "average_runtime": 26
+ },
+ {
+  "id": 16149,
+  "name": "Fleabag",
+  "year": "2016",
+  "end": "2019",
+  "genres": [
+   "Drama",
+   "Comedy"
+  ],
+  "runtime": null,
+  "rating": 8.1,
+  "weight": 99,
+  "network": "BBC Three",
+  "country": null,
+  "seasons": 2,
+  "episodes": 12,
+  "average_runtime": 30
+ },
+ {
+  "id": 44458,
+  "name": "Ted Lasso",
+  "year": "2020",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Comedy",
+   "Sports"
+  ],
+  "runtime": null,
+  "rating": 8.1,
+  "weight": 100,
+  "network": "Apple TV",
+  "country": null,
+  "seasons": 4,
+  "episodes": 44,
+  "average_runtime": 43
+ },
+ {
+  "id": 315,
+  "name": "Archer",
+  "year": "2009",
+  "end": "2023",
+  "genres": [
+   "Comedy",
+   "Action",
+   "Espionage"
+  ],
+  "runtime": null,
+  "rating": 8.3,
+  "weight": 98,
+  "network": "FXX",
+  "country": "US",
+  "seasons": 14,
+  "episodes": 143,
+  "average_runtime": 30
+ },
+ {
+  "id": 143,
+  "name": "Silicon Valley",
+  "year": "2014",
+  "end": "2019",
+  "genres": [
+   "Comedy"
+  ],
+  "runtime": 30,
+  "rating": 8.4,
+  "weight": 94,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 6,
+  "episodes": 53,
+  "average_runtime": 30
+ },
+ {
+  "id": 142,
+  "name": "Veep",
+  "year": "2012",
+  "end": "2019",
+  "genres": [
+   "Comedy"
+  ],
+  "runtime": 30,
+  "rating": 7.8,
+  "weight": 98,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 7,
+  "episodes": 65,
+  "average_runtime": 30
+ },
+ {
+  "id": 73,
+  "name": "The Walking Dead",
+  "year": "2010",
+  "end": "2022",
+  "genres": [
+   "Drama",
+   "Action",
+   "Horror"
+  ],
+  "runtime": null,
+  "rating": 7.9,
+  "weight": 100,
+  "network": "AMC+",
+  "country": null,
+  "seasons": 11,
+  "episodes": 177,
+  "average_runtime": 62
+ },
+ {
+  "id": 30,
+  "name": "American Horror Story",
+  "year": "2011",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Horror",
+   "Thriller"
+  ],
+  "runtime": 30,
+  "rating": 7.4,
+  "weight": 100,
+  "network": "FX",
+  "country": "US",
+  "seasons": 14,
+  "episodes": 145,
+  "average_runtime": 59
+ },
+ {
+  "id": 19,
+  "name": "Supernatural",
+  "year": "2005",
+  "end": "2020",
+  "genres": [
+   "Drama",
+   "Action",
+   "Supernatural"
+  ],
+  "runtime": 60,
+  "rating": 8.4,
+  "weight": 100,
+  "network": "The CW",
+  "country": "US",
+  "seasons": 15,
+  "episodes": 327,
+  "average_runtime": 60
+ },
+ {
+  "id": 53647,
+  "name": "Wednesday",
+  "year": "2022",
+  "end": "",
+  "genres": [
+   "Comedy",
+   "Mystery",
+   "Supernatural"
+  ],
+  "runtime": null,
+  "rating": 7.9,
+  "weight": 100,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 3,
+  "episodes": 16,
+  "average_runtime": 54
+ },
+ {
+  "id": 43687,
+  "name": "Squid Game",
+  "year": "2021",
+  "end": "2025",
+  "genres": [
+   "Drama",
+   "Thriller",
+   "Mystery"
+  ],
+  "runtime": null,
+  "rating": 7.9,
+  "weight": 99,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 3,
+  "episodes": 22,
+  "average_runtime": 59
+ },
+ {
+  "id": 41428,
+  "name": "The Queen's Gambit",
+  "year": "2020",
+  "end": "2020",
+  "genres": [
+   "Drama"
+  ],
+  "runtime": null,
+  "rating": 8.5,
+  "weight": 98,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 1,
+  "episodes": 7,
+  "average_runtime": 56
+ },
+ {
+  "id": 42966,
+  "name": "Bridgerton",
+  "year": "2020",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "runtime": null,
+  "rating": 7.3,
+  "weight": 99,
+  "network": "Netflix",
+  "country": null,
+  "seasons": 5,
+  "episodes": 32,
+  "average_runtime": 63
+ },
+ {
+  "id": 16579,
+  "name": "The Handmaid's Tale",
+  "year": "2017",
+  "end": "2025",
+  "genres": [
+   "Drama",
+   "Science-Fiction"
+  ],
+  "runtime": null,
+  "rating": 7.4,
+  "weight": 99,
+  "network": "Hulu",
+  "country": null,
+  "seasons": 6,
+  "episodes": 66,
+  "average_runtime": 52
+ },
+ {
+  "id": 23470,
+  "name": "Succession",
+  "year": "2018",
+  "end": "2023",
+  "genres": [
+   "Drama",
+   "Family"
+  ],
+  "runtime": null,
+  "rating": 7.5,
+  "weight": 99,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 4,
+  "episodes": 39,
+  "average_runtime": 63
+ },
+ {
+  "id": 54198,
+  "name": "The Bear",
+  "year": "2022",
+  "end": "2026",
+  "genres": [
+   "Drama",
+   "Comedy",
+   "Food"
+  ],
+  "runtime": null,
+  "rating": 7.4,
+  "weight": 99,
+  "network": "Hulu",
+  "country": null,
+  "seasons": 5,
+  "episodes": 46,
+  "average_runtime": 35
+ },
+ {
+  "id": 51394,
+  "name": "The White Lotus",
+  "year": "2021",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Comedy"
+  ],
+  "runtime": null,
+  "rating": 7,
+  "weight": 100,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 4,
+  "episodes": 21,
+  "average_runtime": 64
+ },
+ {
+  "id": 48830,
+  "name": "Only Murders in the Building",
+  "year": "2021",
+  "end": "",
+  "genres": [
+   "Comedy",
+   "Crime",
+   "Mystery"
+  ],
+  "runtime": null,
+  "rating": 6.8,
+  "weight": 100,
+  "network": "Hulu",
+  "country": null,
+  "seasons": 6,
+  "episodes": 60,
+  "average_runtime": 35
+ },
+ {
+  "id": 45039,
+  "name": "Slow Horses",
+  "year": "2022",
+  "end": "",
+  "genres": [
+   "Drama",
+   "Thriller",
+   "Espionage"
+  ],
+  "runtime": null,
+  "rating": 8.1,
+  "weight": 100,
+  "network": "Apple TV",
+  "country": null,
+  "seasons": 8,
+  "episodes": 36,
+  "average_runtime": 46
+ },
+ {
+  "id": 464,
+  "name": "The Pacific",
+  "year": "2010",
+  "end": "2010",
+  "genres": [
+   "Drama",
+   "Action",
+   "War"
+  ],
+  "runtime": 60,
+  "rating": 8.3,
+  "weight": 97,
+  "network": "HBO",
+  "country": "US",
+  "seasons": 1,
+  "episodes": 10,
+  "average_runtime": 60
+ }
+]

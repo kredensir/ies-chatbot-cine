@@ -1,0 +1,11 @@
+flet[desktop,web]==1.0.0
+# flet-web 1.0.0 usa una API de FastAPI anterior a 0.116.
+fastapi>=0.115.12,<0.116
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+joblib>=1.3
+matplotlib>=3.8
+requests>=2.31
+python-docx>=1.1

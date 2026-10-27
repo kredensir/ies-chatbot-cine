@@ -1,0 +1,166 @@
+test_candidates_filters (test_database.DatabaseTests.test_candidates_filters) ... ok
+test_catalog_has_movies_and_series (test_database.DatabaseTests.test_catalog_has_movies_and_series) ... ok
+test_demo_profile (test_database.DatabaseTests.test_demo_profile) ... ok
+test_fts_search (test_database.DatabaseTests.test_fts_search) ... ok
+test_health_and_counts (test_database.DatabaseTests.test_health_and_counts) ... ok
+test_rating_triggers_in_copy (test_database.DatabaseTests.test_rating_triggers_in_copy) ... ok
+test_title_normalization (test_database.DatabaseTests.test_title_normalization) ... ok
+test_information (test_engine.EngineTests.test_information) ... C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+ok
+test_pending_rating_flow (test_engine.EngineTests.test_pending_rating_flow) ... C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+ok
+test_plain_movie_request_returns_full_batch (test_engine.EngineTests.test_plain_movie_request_returns_full_batch) ... C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+ok
+test_rating_and_history (test_engine.EngineTests.test_rating_and_history) ... C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+ok
+test_recommend_movies (test_engine.EngineTests.test_recommend_movies) ... C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+ok
+test_recommend_series (test_engine.EngineTests.test_recommend_series) ... C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+ok
+test_rejection_and_more (test_engine.EngineTests.test_rejection_and_more) ... C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+ok
+test_reset (test_engine.EngineTests.test_reset) ... C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+ok
+test_start_and_greeting (test_engine.EngineTests.test_start_and_greeting) ... C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+ok
+test_ui_rate_shortcut (test_engine.EngineTests.test_ui_rate_shortcut) ... C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+ok
+test_cluster_assignment (test_ml.ModelTests.test_cluster_assignment) ... ok
+test_content_neighbors (test_ml.ModelTests.test_content_neighbors) ... ok
+test_content_scores_range (test_ml.ModelTests.test_content_scores_range) ... ok
+test_intent_classifier (test_ml.ModelTests.test_intent_classifier) ... ok
+test_recommender_movies (test_ml.ModelTests.test_recommender_movies) ... ok
+test_recommender_series (test_ml.ModelTests.test_recommender_series) ... ok
+test_similar_items (test_ml.ModelTests.test_similar_items) ... ok
+test_svd_prediction_range (test_ml.ModelTests.test_svd_prediction_range) ... ok
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:207: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape
+C:\Users\boris\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\joblib\numpy_pickle.py:204: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  array.shape = self.shape[::-1]
+test_alias (test_nlu.NLUTests.test_alias) ... ok
+test_article_is_not_quantity (test_nlu.NLUTests.test_article_is_not_quantity) ... ok
+test_genre_and_media_type (test_nlu.NLUTests.test_genre_and_media_type) ... ok
+test_history (test_nlu.NLUTests.test_history) ... ok
+test_information_title (test_nlu.NLUTests.test_information_title) ... ok
+test_mood (test_nlu.NLUTests.test_mood) ... ok
+test_rating_entities (test_nlu.NLUTests.test_rating_entities) ... ok
+test_reset (test_nlu.NLUTests.test_reset) ... ok
+test_similar_title (test_nlu.NLUTests.test_similar_title) ... ok
+test_top_count (test_nlu.NLUTests.test_top_count) ... ok
+test_letterboxd_parser (test_posters.PosterHelperTests.test_letterboxd_parser) ... ok
+test_poster_falls_back_without_url (test_posters.PosterHelperTests.test_poster_falls_back_without_url) ... ok
+test_poster_uses_image_when_url_exists (test_posters.PosterHelperTests.test_poster_uses_image_when_url_exists) ... ok
+test_slugify_handles_accents_and_ampersands (test_posters.PosterHelperTests.test_slugify_handles_accents_and_ampersands) ... ok
+test_theme_toggle_changes_palette_and_markdown (test_posters.PosterHelperTests.test_theme_toggle_changes_palette_and_markdown) ... ok
+test_title_variants_move_articles_and_drop_foreign_title (test_posters.PosterHelperTests.test_title_variants_move_articles_and_drop_foreign_title) ... ok
+
+----------------------------------------------------------------------
+Ran 41 tests in 137.706s
+
+OK
