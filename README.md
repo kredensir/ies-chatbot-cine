@@ -4,7 +4,6 @@
 
 CineBot combina un recomendador híbrido (contenido + filtrado colaborativo + calidad + popularidad), un clasificador de intenciones en español y una base de datos relacional que registra conversaciones, valoraciones y recomendaciones mostradas.
 
-> Trabajo práctico de Programación, Bases de Datos e Inteligencia Artificial.
 > La aplicación funciona sin claves de API ni servicios externos: los datos y los modelos ya vienen preparados en el repositorio.
 
 ---
