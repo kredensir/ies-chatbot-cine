@@ -1,0 +1,175 @@
+{
+  "version": "1.0.0",
+  "trained_at": "2026-10-25 13:59:32 UTC",
+  "python": "3.14.7",
+  "catalog": {
+    "items": 9832,
+    "movies": 9742,
+    "series": 90,
+    "movielens_ratings": 100836,
+    "users": 610
+  },
+  "splits": {
+    "train": 70614,
+    "validation": 15111,
+    "test": 15111
+  },
+  "baseline": {
+    "rmse": 1.0354548693114944,
+    "mae": 0.8213774328876259,
+    "r2": -7.904970122019073e-05,
+    "n": 15111.0
+  },
+  "collaborative": {
+    "rmse": 0.8502840515999739,
+    "mae": 0.6508131470109179,
+    "r2": 0.31812697100697374,
+    "n": 14433.0
+  },
+  "svd_params": {
+    "n_factors": 24,
+    "epochs": 35,
+    "learning_rate": 0.008,
+    "reg": 0.08,
+    "patience": 6,
+    "seed": 42,
+    "n_users": 610,
+    "n_items": 8584,
+    "n_ratings": 70614,
+    "best_epoch": 35,
+    "best_val_rmse": 0.8576606324093383
+  },
+  "content": {
+    "vocabulary_size": 12715,
+    "items": 9832,
+    "top_k_neighbors": 40
+  },
+  "ranking": {
+    "popularidad": {
+      "precision@10": 0.08129251700680272,
+      "recall@10": 0.1024336669983364,
+      "ndcg@10": 0.12062717732884828,
+      "hit_rate@10": 0.48299319727891155,
+      "coverage": 0.0048928238583411,
+      "diversity": 0.20542001103792487,
+      "evaluated_users": 588.0
+    },
+    "content": {
+      "precision@10": 0.008333333333333333,
+      "recall@10": 0.018774725373024433,
+      "ndcg@10": 0.017904549421250374,
+      "hit_rate@10": 0.0782312925170068,
+      "coverage": 0.09960391425908667,
+      "diversity": 0.7130725623582765,
+      "evaluated_users": 588.0
+    },
+    "collaborative": {
+      "precision@10": 0.017006802721088437,
+      "recall@10": 0.020030451346580234,
+      "ndcg@10": 0.021774578311130593,
+      "hit_rate@10": 0.1360544217687075,
+      "coverage": 0.04368592730661696,
+      "diversity": 0.26354512760691895,
+      "evaluated_users": 588.0
+    },
+    "hybrid": {
+      "precision@10": 0.018367346938775512,
+      "recall@10": 0.03862673773455825,
+      "ndcg@10": 0.04108079894373179,
+      "hit_rate@10": 0.16156462585034015,
+      "coverage": 0.08748835041938491,
+      "diversity": 0.5815400972798932,
+      "evaluated_users": 588.0
+    },
+    "test": {
+      "precision@10": 0.018367346938775512,
+      "recall@10": 0.03862673773455825,
+      "ndcg@10": 0.04108079894373179,
+      "hit_rate@10": 0.16156462585034015,
+      "coverage": 0.08748835041938491,
+      "diversity": 0.5815400972798932,
+      "evaluated_users": 588.0
+    },
+    "content_test": {
+      "precision@10": 0.008333333333333333,
+      "recall@10": 0.018774725373024433,
+      "ndcg@10": 0.017904549421250374,
+      "hit_rate@10": 0.0782312925170068,
+      "coverage": 0.09960391425908667,
+      "diversity": 0.7130725623582765,
+      "evaluated_users": 588.0
+    },
+    "collaborative_test": {
+      "precision@10": 0.017006802721088437,
+      "recall@10": 0.020030451346580234,
+      "ndcg@10": 0.021774578311130593,
+      "hit_rate@10": 0.1360544217687075,
+      "coverage": 0.04368592730661696,
+      "diversity": 0.26354512760691895,
+      "evaluated_users": 588.0
+    }
+  },
+  "hybrid_weights": {
+    "content": 0.4,
+    "collaborative": 0.3,
+    "quality": 0.2,
+    "popularity": 0.1
+  },
+  "cold_start_weights": {
+    "content": 0.55,
+    "collaborative": 0.0,
+    "quality": 0.3,
+    "popularity": 0.15
+  },
+  "intent": {
+    "accuracy": 0.5866666666666667,
+    "macro_f1": 0.5625220458553792,
+    "weighted_f1": 0.5666878306878308,
+    "cv_accuracy_mean": 0.5763963963963964,
+    "cv_accuracy_std": 0.09414141122806007,
+    "n_examples": 373.0,
+    "n_intents": 18.0,
+    "n_features": 3921.0
+  },
+  "clusters": {
+    "best_k": 3,
+    "silhouette": 0.12525066670900895,
+    "inertias": {
+      "3": 9683.628741289223,
+      "4": 9209.352510081268,
+      "5": 8790.991906465671,
+      "6": 8471.709505058065,
+      "7": 8205.023118083776,
+      "8": 8011.880478568459
+    },
+    "silhouettes": {
+      "3": 0.12525066670900895,
+      "4": 0.0698506249514958,
+      "5": 0.05932218213074586,
+      "6": 0.05566907579258091,
+      "7": 0.047863141240294636,
+      "8": 0.03890202132320725
+    },
+    "n_users": 610,
+    "explained_variance": 0.367319482973154
+  },
+  "clusters_names": {
+    "0": "Espectador familiar",
+    "1": "Buscador de rarezas",
+    "2": "Explorador del suspenso"
+  },
+  "clusters_descriptions": {
+    "0": "Géneros afines: Children, Fantasy, Animation. Nota media del grupo: 3.67/5.",
+    "1": "Géneros afines: Film-Noir, Documentary, Musical. Nota media del grupo: 3.42/5.",
+    "2": "Géneros afines: Thriller, Action, Sci-Fi. Nota media del grupo: 3.72/5."
+  },
+  "figures": [
+    "reports/figures/ratings_distribution.png",
+    "reports/figures/svd_learning_curve.png",
+    "reports/figures/model_comparison.png",
+    "reports/figures/genre_distribution.png",
+    "reports/figures/user_clusters.png",
+    "reports/figures/intent_confusion.png",
+    "reports/figures/catalog_composition.png"
+  ]
+}
