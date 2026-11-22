@@ -29,13 +29,6 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Setup Flutter
-        uses: subosito/flutter-action@v2
-        with:
-          flutter-version: "3.24.5"
-          channel: "stable"
-          cache: true
-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -44,8 +37,7 @@ jobs:
 
       - name: Build Web with Base URL
         run: |
-          # Flet build web requiere a veces aceptar términos o configurar el target
-          yes | flet build web --base-url /${{ github.event.repository.name }}/
+          flet build web --yes --module-name app --base-url /${{ github.event.repository.name }}/
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
